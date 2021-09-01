@@ -1,6 +1,6 @@
 ### Hi there 👋
 - :star:  Hi, I’m @Raphaszdias 
-- :stuck_out_tongue_closed_eyes: I’m currently learning C and Sql
+- :stuck_out_tongue_closed_eyes: I’m currently Studying systems analysis and development
 - :hearts:  I love T.i and hardware 
 - :cupid:  Geek and Game in your spare time
 <!--
