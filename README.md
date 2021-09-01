@@ -1,5 +1,5 @@
 ### Hi there 👋
-:star: Hi, I’m @Raphaszdias
+:star: Hi, I’m @Raphaszdias /n
 :stuck_out_tongue_closed_eyes: I’m currently learning C and Sql...
 revolving_hearts I love T.i and hardware ...
 :cupid: Geek and Game in your spare time
